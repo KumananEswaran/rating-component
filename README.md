@@ -1,4 +1,4 @@
-# FAQ-Accordion: <a target="_blank" href="https://rc-frontendmentor.netlify.app/">Visit Here</a>
+# Interactive Rating Component: <a target="_blank" href="https://rc-frontendmentor.netlify.app/">Visit Here</a>
  
 <a href="https://rc-frontendmentor.netlify.app/" target="_blank">
  
