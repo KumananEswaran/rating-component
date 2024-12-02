@@ -30,7 +30,7 @@ Solution: I used querySelectorAll('.rate-btn') to select all the buttons with th
 
 Challenge: Ensuring the Rating Value is Displayed Correctly
 
-Solution: Using the rate element (which is a ) in the thank-you section, I updated its inner text with the value of the selected rating by setting rate.innerText = rating.innerText inside the event listener for the rating buttons.
+Solution: Using the rate element (a <span> tag in the thank-you section), I updated its inner text with the value of the selected rating by setting rate.innerText = rating.innerText inside the event listener for the rating buttons.
 
 
 
