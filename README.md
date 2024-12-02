@@ -2,7 +2,9 @@
  
 <a href="https://rc-frontendmentor.netlify.app/" target="_blank">
 ![image](https://github.com/user-attachments/assets/416f8bd6-914b-4a50-95ae-9f976832f03f)
+ 
 ![image](https://github.com/user-attachments/assets/7d8ec1a7-df35-4392-bcb8-4324a56446cc)
+
 ![image](https://github.com/user-attachments/assets/e12d43b2-07d8-4c27-927e-767068f8e4aa)
  
 ### INTERACTIVE RATING COMPONENT - FRONTEND MENTOR CHALLENGE
